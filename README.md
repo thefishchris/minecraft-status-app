@@ -19,7 +19,10 @@ npm start
 to use the app you will need to enter the ip address and port of the server
 you want to check the status of. you can also enter a name for the server
 which will be displayed in the app.
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> 9b24c4a7e0422014d26e3e605116e50b48a175c3
